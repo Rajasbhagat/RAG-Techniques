@@ -13,6 +13,17 @@ This project goes beyond simple vector search, implementing a comprehensive suit
 *   **Modular Architecture**: Toggle different ingestion and retrieval strategies on the fly.
 *   **Deep Reasoning**: Integrated support for reasoning models like `deepseek-r1`.
 
+## 📸 Platform Screenshots
+
+| Dashboard | Ingestion Settings |
+|:---:|:---:|
+| ![Dashboard](assets/home_dashboard.png) | ![Ingestion](assets/ingestion_settings.png) |
+
+| Experimentation & Retrieval |
+|:---:|
+| ![Retrieval](assets/retrieval_experiment.png) |
+
+
 ---
 
 ## 🛠️ Implemented RAG Techniques
