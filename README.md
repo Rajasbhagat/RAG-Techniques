@@ -4,6 +4,8 @@
 
 This project goes beyond simple vector search, implementing a comprehensive suite of **15+ advanced RAG patterns** from scratch using Python, Ollama, and ChromaDB. It serves as both a learning tool and a reference implementation for building production-grade RAG systems.
 
+Created by [Rajas Bhagat](https://www.rajasb.com).
+
 ---
 
 ## 🚀 Features at a Glance
